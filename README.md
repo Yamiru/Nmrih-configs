@@ -1,2 +1,4 @@
 # Nmrih-configs
-no more room in hell
+No more room in hell
+game server config
+
